@@ -2,7 +2,7 @@
 
   *I'm currently studying in **Computer Engineering & Digital Technology Program Chulalongkorn University Year 1***
 
-<a href="https://web.facebook.com/profile.php?id=100017520033732"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/> </a>
+<a href="https://discord.com/invite/GkBkY8b6"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/> </a>
 <a href="https://web.facebook.com/profile.php?id=100017520033732"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"/> </a>
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
