@@ -1,6 +1,6 @@
 # Hello, I'm *Asiwish Chutanunta* 👋
 
-  *I'm currently studying in **First Year Computer Engineering & Digital Technology Program Chulalongkorn University***
+  *I'm currently studying in **Second Year Computer Engineering & Digital Technology Program Chulalongkorn University***
 
   ɢᴀᴍᴇꜱ • ᴀɴɪᴍᴇ • ᴄᴏᴅᴇ • ᴀʀᴛ
   
